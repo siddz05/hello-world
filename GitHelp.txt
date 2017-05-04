@@ -2,3 +2,109 @@ List Of Commands
 =========================================
 1. GIT GUI Command For Ubuntu:: git citool
 
+id@sid-hp:~$ history | grep git
+  766  sudo apt-get install git
+  769  git version
+  770  git show
+  771  git 
+  772  git clone
+  773  git clone --mirror
+  774  git clone --mirror ?
+  775  git clone --mirror EveryDayOfFrontEnd
+  776  git clone --mirror git@github.com:siddz05/EveryDayOfFrontEnd.git
+  777  sudo apt-get install git-gui
+  778  git citool
+  796  nano ~/.gitconfig
+  797  sudo gedit ~/.gitconfig
+  798  git help
+  799  git show
+  800  sudo git show
+  801  git list
+  802  list git
+  804  history | grep git
+  805  git citool
+  806  git config
+  807  git init.
+  808  git init
+  811  cd git
+  814  git init
+  815  git status
+  818  git status
+  819  git commit -m
+  820  git commit -m hello-world
+  821  git push\
+  822  git push
+  823  git status
+  824  git add Git_Help_Dont_be_afraid_to_commit.pdf 
+  825  git status
+  826  git commit
+  827  git status
+  828  git add Git_Help_Dont_be_afraid_to_commit.pdf 
+  829  git status
+  830  git commit
+  831  git history
+  833  git help
+  834  git show
+  835  git 
+  836  git log
+  837  git push
+  838  git checkout -b new-branch 
+  841  git clone 
+  842  git clone hello-world 
+  843  git clone siddz05.github.com/hello-world 
+  844  git clone siddz05.github.com:siddz05/hello-world 
+  845  git fetch
+  847  git merge origin/master
+  848  git chekout master
+  849  git checkout master
+  851  git branches  show
+  852  git branch
+  857  git clone git@github.com:siddz05/EveryDayOfCode.git
+  858  git clone git@github.com:siddz05/EveryDayOfCode.git EveryDayOfCode
+  862  git clone git@github.com:siddz05/EveryDayOfCode.git EveryDayOfCode
+  863  git clone git@github.com/siddz05/EveryDayOfCode.git
+  864  git clone git@github.com/siddz05/EveryDayOfCode.git EveryDayOfFrontEnd/
+  865  git clone siddz05@github.com/siddz05/EveryDayOfCode.git EveryDayOfFrontEnd/
+  866  git clone git@github.com:abc/xyz.gitgit clone git@github.com:abc/xyz.git/siddz05/EveryDayOfCode.git
+  867  git clone git@github.com:/siddz05/EveryDayOfCode.git
+  871  ssh -vT git@github.com
+  872  ssh -vT sid@github.com
+  873  git clone siddz05@github.com/siddz05/EveryDayOfCode.git EveryDayOfFrontEnd/
+  874  git clone git@github.com:/siddz05/EveryDayOfCode.git
+  875  sudo git clone git@github.com:/siddz05/EveryDayOfCode.git
+  876  sudo git clone
+  877  sudo git clone --bare 
+  878  sudo git clone --bare git@github.com:siddz05/EveryDayOfCode.git
+  879  git help
+  880  git clone
+  881  git clone https://github.com/siddz05/EveryDayOfCode.git
+  882  git clone https://github.com/siddz05/siddz05.github.io.git
+  884  cd siddz05.github.io/
+  889  cd git
+  891  cd siddz05.github.io/
+  893  git status
+  894  git add Display.html 
+  895  git commit -m "Display.html A simple JavaScript Code For Displaying Image And Color!"
+  896  git push
+  897  git status
+  898  git add commit -a index.html 
+  899  git add commit -a index.html  -e
+  900  git add commit -a index.html -e
+  901  git add commit -A index.html
+  902  git commit -A index.html
+  903  git status
+  904  git commit -a index.html 
+  905  git commit -A index.html 
+  906  git commit -a index.html 
+  907  git commit index.html -a
+  908  git add index.html 
+  909  git commit index.html 
+  910  git push index.html 
+  911  git push
+  912  git log
+ 1001  git
+ 1002  git status
+ 1003  history | grep git
+sid@sid-hp:~$ 
+
+
